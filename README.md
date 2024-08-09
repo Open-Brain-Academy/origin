@@ -1,2 +1,2 @@
-# upstream 
+# origin 
 リモートリポジトリをするためさ
